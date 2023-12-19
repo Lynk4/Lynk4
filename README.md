@@ -1,19 +1,13 @@
 
 ![kant](https://github.com/Lynk4/Lynk4/assets/44930131/189ac121-db56-48cd-aa95-0a325b4339eb)
 
+# Hey 👋 What's up?
 
-### <div align="center">I'm Chandra kant, a  Cyber Security Student.🚀</div>  
-  
 
-  
-  
-
-  
+### <div align="left">I'm Chandra, a Cyber Security Student from India.🚀</div>  
   
 
   
-  
-
 - ⚡ Fun fact: I always forget to change the default passwords.😉  
   
 
