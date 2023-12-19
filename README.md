@@ -1,5 +1,6 @@
 
-![shubham-dhage-_rZnChsIFuQ-unsplash](https://github.com/Lynk4/Lynk4/assets/44930131/0bb498f4-9d7c-48a1-bfa0-7312839e9ac8)
+![kant](https://github.com/Lynk4/Lynk4/assets/44930131/189ac121-db56-48cd-aa95-0a325b4339eb)
+
 
 ### <div align="center">I'm Chandra kant, a  Cyber Security Student.🚀</div>  
   
