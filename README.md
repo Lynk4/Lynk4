@@ -1,5 +1,6 @@
-
-![kant](https://github.com/Lynk4/Lynk4/assets/44930131/189ac121-db56-48cd-aa95-0a325b4339eb)
+<div align="center">
+<img src="https://wallpaperbat.com/img/759409-wp2691434-cyber-security-wallpaper-gabriel-bogdan-badulescu.jpg" align="center" style="width: 100%" />
+</div>  
 
 
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
