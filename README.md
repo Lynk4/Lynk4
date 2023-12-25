@@ -1,6 +1,5 @@
-<div align="center">
-<img src="https://wallpaperbat.com/img/759409-wp2691434-cyber-security-wallpaper-gabriel-bogdan-badulescu.jpg" align="center" style="width: 100%" />
-</div>  
+
+![759409-wp2691434-cyber-security-wallpaper-gabriel-bogdan-badulescu](https://github.com/Lynk4/Lynk4/assets/44930131/3b57d193-9dc1-45eb-932f-606667cb4ab8)
 
 
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
