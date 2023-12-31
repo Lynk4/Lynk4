@@ -1,5 +1,4 @@
-
-![759409-wp2691434-cyber-security-wallpaper-gabriel-bogdan-badulescu](https://github.com/Lynk4/Lynk4/assets/44930131/3b57d193-9dc1-45eb-932f-606667cb4ab8)
+![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Lynk4/Lynk4/assets/44930131/3de0c528-45a6-4595-bf3f-a50c77baaa30)
 
 
 Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
