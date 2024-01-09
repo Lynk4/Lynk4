@@ -23,13 +23,14 @@ Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,kubernetes,solidity,docker,postman,py,vim,js,md,vscode,raspberrypi,discord" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,kubernetes,solidity,docker,postman,py,vim" />
   </a>
 </p>
 
+<br/> 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,discord"/>
+    <img src="https://skillicons.dev/icons?i=js,md,vscode,raspberrypi,html,css,discord"/>
   </a>
 </p>
 
