@@ -1,7 +1,7 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Lynk4/Lynk4/assets/44930131/3de0c528-45a6-4595-bf3f-a50c77baaa30)
 
 
-Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" /> What's up?
+Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" />, What's up?
 ===============================================================================================================================
 
 
