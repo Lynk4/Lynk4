@@ -1,11 +1,11 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Lynk4/Lynk4/assets/44930131/3de0c528-45a6-4595-bf3f-a50c77baaa30)
 
 
-Hey ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) What's up?
+Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" /> What's up?
 ===============================================================================================================================
 
---------------------------------
-### <div align="left">I'm Chandra, a Cyber Security Student from India.🚀</div> 
+
+## <div align="left">I'm Chandra, a Cyber Security Student from India.🚀</div> 
 
 
 *   ✉️  You can contact me at [devraj0262@gmail.com](mailto:devraj0262@gmail.com)
