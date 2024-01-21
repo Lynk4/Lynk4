@@ -4,8 +4,7 @@
 Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" />, What's up?
 ===============================================================================================================================
 ---
-## <div align="left">I'm Chandra, a Cyber Security Student from India.🚀</div> 
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Damion&size=45&duration=1998&pause=1000&color=F70000&random=false&width=990&height=70&lines=I'm+Chandra%2C+a+Cyber+Security+Student+from+India...%F0%9F%9A%80)](https://git.io/typing-svg)
 
 *   ✉️  You can contact me at [devraj0262@gmail.com](mailto:devraj0262@gmail.com)
 
