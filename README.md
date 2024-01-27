@@ -1,11 +1,10 @@
 ![241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5](https://github.com/Lynk4/Lynk4/assets/44930131/3de0c528-45a6-4595-bf3f-a50c77baaa30)
 
 
-Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" />, What's up?
+Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" />, What's up?. You've probably never heard of me.
 ===============================================================================================================================
 ---
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Damion&size=45&duration=1998&pause=1000&color=F7103D&background=FFFFFF00&random=false&width=990&height=70&lines=I'm+Chandra%2C+a+Cyber+Security+Student+from+India...%F0%9F%9A%80)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2970&pause=997&color=008080&vCenter=true&random=false&width=1299&height=70&lines=I'm+Chandra%2C+a+Cyber+Security+Student++from+India.%F0%9F%9A%80)](https://git.io/typing-svg)
 
 *   ✉️  You can contact me at [devraj0262@gmail.com](mailto:devraj0262@gmail.com)
 
