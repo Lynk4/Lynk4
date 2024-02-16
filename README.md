@@ -13,6 +13,8 @@ Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 
 <br/>  
 
+### Holopin badges..........
+[![An image of @lynk4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lynk4)](https://holopin.io/@lynk4)
 
 
 ## My Skill Set 
