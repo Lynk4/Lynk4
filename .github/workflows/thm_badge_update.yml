@@ -2,7 +2,7 @@ name: Update TryHackMe Badge
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # updates every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,11 +10,13 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+
+      - name: Create assets folder if missing
+        run: mkdir -p assets
 
       - name: Download TryHackMe badge
         uses: p4p1/tryhackme-badge-workflow@main
         with:
-          username: "dev0310"   # <-- your TryHackMe username
+          username: "dev0310"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
