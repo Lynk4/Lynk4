@@ -29,6 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
   generate-snake:
+    needs: generate-pacman
     permissions:
       contents: write
     runs-on: ubuntu-latest
