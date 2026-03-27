@@ -74,31 +74,12 @@ Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 
 ----
 
-## 🟡 My Contribution Graph
+## 🟡 My Contribution Graph 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
-
-## 🟡 Pac-Man Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph.svg">
-</picture>
-
-## 🐍 Snake Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/snake-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/snake-contribution-graph.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Lynk4/Lynk4/output/snake-contribution-graph.svg">
 </picture>
 
 ---
