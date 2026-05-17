@@ -8,7 +8,7 @@ Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2970&pause=997&color=008080&vCenter=true&random=false&width=1299&height=70&lines=I'm+Chandra%2C+a+Cyber+Security+Student++from+India.%F0%9F%9A%80)](https://git.io/typing-svg)
 
 -----------------------------------------------------------
-👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" min-width="200px" max-width="200px" width="250px" align="right"> 
+👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" min-width="300px" max-width="300px" width="260px" align="right"> 
 ✨ Intern @Quick Heal | Prev. Intern @Cert-In <br>
 ⚡ Check my ✨ [Medium](https://medium.com/@lynk-kant) <br>
 📫 How to reach me: [devraj0262@gmail.com](mailto:devraj0262@gmail.com) <br>
