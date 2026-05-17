@@ -29,11 +29,15 @@ Languages/Script: <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=
 <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&style=flat">&nbsp;<br>
-Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white&style=flat">&nbsp;
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat">&nbsp; <br>
+Tools : <img src="https://img.shields.io/badge/ghidra-red&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/X64_dbg-blue&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/IDA_PRO-blue&style=flat">&nbsp;
+
 
 
 <br/>  
