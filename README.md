@@ -30,14 +30,13 @@ Tools : <img src="https://img.shields.io/badge/ghidra-red&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/X64_dbg-blue&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/IDA_PRO-blue&style=flat">&nbsp;
 
-----
+---
 
-## 🟡 My Contribution Graph 
-
+## 🟡 My Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Lynk4/Lynk4/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lynk4/Lynk4/output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/Lynk4/Lynk4/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
