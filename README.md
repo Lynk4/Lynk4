@@ -6,38 +6,35 @@ Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2970&pause=997&color=008080&vCenter=true&random=false&width=1299&height=70&lines=I'm+Chandra%2C+a+Cyber+Security+Student++from+India.%F0%9F%9A%80)](https://git.io/typing-svg)
 
-*   ✉️  You can contact me at [devraj0262@gmail.com](mailto:devraj0262@gmail.com)
 
-- ⚡ Fun fact: I always forget to change the default passwords.😉  
 
----
 
-![TryHackMe Badge](assets/thm_propic.png)
 
----
 
-<br/>  
 
-<!-- ### Holopin badges..........
-[![An image of @lynk4's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lynk4)](https://holopin.io/@lynk4)
--->
+<!-- <img width="400" height="400" alt="git-home" src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" />
+👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">  -->
 
-## My Skill Set 
+-----------------------------------------------------------
+👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" min-width="300px" max-width="200px" width="250px" align="right"> 
+✨ Intern @Quick Heal | Prev. Intern @Cert-In <br>
+⚡ Check my ✨ [Medium](https://medium.com/@lynk-kant) <br>
+📫 How to reach me: [devraj0262@gmail.com](mailto:devraj0262@gmail.com) <br>
+💬 Ask me about Malware Analysis/Reverse engineering.<br>
 
-<br/>  
+<!--- Adding Tech Stack open Section -->
+<b>🛠 Tech Stack </b><br><br>
+Languages/Script: <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-PowerShell-5391FE?logo=PowerShell&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white&style=flat">&nbsp;<br>
+Tools and Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Jira-0052CC?logo=Jira&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat">&nbsp;
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,bash,solidity,docker,postman,py" />
-  </a>
-</p>
-
-<br/> 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vim,js,md,vscode,raspberrypi,html,css,discord"/>
-  </a>
-</p>
 
 <br/>  
 
