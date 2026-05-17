@@ -3,17 +3,9 @@
 
 Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="50" width="50" />, What's up?........
 ===============================================================================================================================
----
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2970&pause=997&color=008080&vCenter=true&random=false&width=1299&height=70&lines=I'm+Chandra%2C+a+Cyber+Security+Student++from+India.%F0%9F%9A%80)](https://git.io/typing-svg)
-
-
-
-
-
-
-
-<!-- <img width="400" height="400" alt="git-home" src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" />
-👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/refs/heads/main/Assets/git-home.gif" min-width="300px" max-width="200px" width="250px" align="right">  -->
 
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" min-width="300px" max-width="200px" width="250px" align="right"> 
@@ -37,41 +29,6 @@ Platforms: <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor
 Tools : <img src="https://img.shields.io/badge/ghidra-red&style=flat">&nbsp; 
 <img src="https://img.shields.io/badge/X64_dbg-blue&style=flat">&nbsp;
 <img src="https://img.shields.io/badge/IDA_PRO-blue&style=flat">&nbsp;
-
-
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Lynk4" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/_kant___" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/chandra-kant-bauri-b33114230" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/__c.kant__" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=Lynk4&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
 
 ----
 
