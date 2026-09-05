@@ -13,7 +13,7 @@ Hey <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://github.com/user-attachments/assets/9e95ec57-1b8c-4547-8fcb-5b92ee22c360" min-width="300px" max-width="200px" width="250px" align="right"> 
 ✨ Intern @Quick Heal | Prev. Intern @Cert-In <br>
-⚡ Check my ✨ [Medium](https://medium.com/@lynk-kant) <br>
+⚡ Check my ✨ [Medium](https://medium.com/@ckant) <br>
 📫 How to reach me: [devraj0262@gmail.com](mailto:devraj0262@gmail.com) <br>
 💬 Ask me about Malware Analysis/Reverse engineering.<br>
 
